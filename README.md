@@ -13,14 +13,14 @@ Snitch is your blockchain detective that reveals the truth behind incomplete wal
 
 ##  Key Features
 
-- ** Address Detective** - Input incomplete addresses like `0xc42...e9dff` and Snitch reveals the truth
-- ** Blockchain Investigation** - Scans recent Ethereum blocks to catch matching addresses
-- ** Balance Exposure** - Shows current ETH balance for busted addresses
-- ** Contract Sniffing** - Detects whether an address is a smart contract
-- ** Phishing Buster** - Verifies addresses on-chain to expose scammers
-- ** Evidence Collection** - One-click copy of complete addresses
-- ** Stealth UI** - Sleek, modern design with smooth detective animations
-- ** Mobile Operations** - Works seamlessly on all devices
+- **Address Detective** - Input incomplete addresses like `0xc42...e9dff` and Snitch reveals the truth
+- **Blockchain Investigation** - Scans recent Ethereum blocks to catch matching addresses
+- **Balance Exposure** - Shows current ETH balance for busted addresses
+- **Contract Sniffing** - Detects whether an address is a smart contract
+- **Phishing Buster** - Verifies addresses on-chain to expose scammers
+- **Evidence Collection** - One-click copy of complete addresses
+- **Stealth UI** - Sleek, modern design with smooth detective animations
+- **Mobile Operations** - Works seamlessly on all devices
 
 ##  Live Demo
 
